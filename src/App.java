@@ -18,6 +18,6 @@ public class App {
             System.out.println(person);
         }
         System.out.println("------Ordenadas por edad------");
-        PersonController(persona);
+        
     }
 }
